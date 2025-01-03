@@ -6,6 +6,7 @@
 3. [Key Concepts](#key-concepts)
 4. [Stretch Goals](#stretch-goals)
 5. [How to run](#how-to-run)
+6. [Developer Integrity](#developer-integrity)
 
 <a name="objective"></a>
 ### Objective
@@ -50,3 +51,20 @@ Create a simple tic-tac-toe game in Python that can be played in the terminal ag
 ## How to run:
 1. Clone
 2. Run
+
+<a name="developer-integrity"></a>
+### Developer Integrity:
+- AI is a last resort and will not be used to create code.
+  - It can be used to explain concepts or possibly help finding a function/module, but using other resources should come first. Example resources:
+    - [W3 Schools](https://www.w3schools.com/python/default.asp)
+    - [Official Python documentation](https://docs.python.org/3/)
+    - Search engines (Google, DuckDuckGo, etc.)
+  - Some helpful places to start:
+    - [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
+    - [Classes and Objects](https://www.w3schools.com/python/python_classes.asp)
+    - [Python Functions](https://docs.python.org/3/library/functions.html)
+- Never use code that you don't understand or can't explain.
+  - It's real easy to use code found somewhere like StackOverflow, but this doesn't help build the skills we're trying to build. 
+- Any approach is fine, as long as it is written in Python and works as intended.
+- Ask questions.
+  - Reach out to your peers and mentors if you need help.
