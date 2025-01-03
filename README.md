@@ -5,15 +5,15 @@
 2. [Lesson Requirements](#lesson-requirements)
 3. [Key Concepts](#key-concepts)
 4. [Stretch Goals](#stretch-goals)
-5. [How to run](#how-to-run)
-6. [Developer Integrity](#developer-integrity)
+5. [Developer Integrity](#developer-integrity)
+6. [How to run](#how-to-run)
 
 <a name="objective"></a>
-### Objective
+## Objective
 Create a simple tic-tac-toe game in Python that can be played in the terminal against a computer opponent.
 
 <a name="lesson-requirements"></a>
-### Lesson Requirements
+## Lesson Requirements
 1. Setup and Basics
 - Create a Python script file (e.g., tic_tac_toe.py).
 - Define a 3x3 grid to represent the tic-tac-toe board. Use a 2D list or a single list.
@@ -34,7 +34,7 @@ Create a simple tic-tac-toe game in Python that can be played in the terminal ag
 - Add a basic AI strategy for the computer.
 
 <a name="key-concepts"></a>
-### Key Concepts You Will Learn
+## Key Concepts You Will Learn
 - Basic Python syntax: Variables, lists, functions, and loops.
 - Input handling: Reading and validating user input.
 - Logic implementation: Conditions and flow control with if statements.
@@ -42,18 +42,13 @@ Create a simple tic-tac-toe game in Python that can be played in the terminal ag
 - Code structure: Organizing functions for clarity and reusability.
 
 <a name="stretch-goals"></a>
-### Stretch Goals (Advanced Concepts, Optional)
+## Stretch Goals (Advanced Concepts, Optional)
 - Implement a smarter AI using the Minimax algorithm.
 - Add colors to the terminal output using libraries like colorama.
 - Create a replay option for the game.
 
-<a name="how-to-run"></a>
-## How to run:
-1. Clone
-2. Run
-
 <a name="developer-integrity"></a>
-### Developer Integrity:
+## Developer Integrity:
 - AI is a last resort and will not be used to create code.
   - It can be used to explain concepts or possibly help finding a function/module, but using other resources should come first. Example resources:
     - [W3 Schools](https://www.w3schools.com/python/default.asp)
@@ -68,3 +63,8 @@ Create a simple tic-tac-toe game in Python that can be played in the terminal ag
 - Any approach is fine, as long as it is written in Python and works as intended.
 - Ask questions.
   - Reach out to your peers and mentors if you need help.
+
+<a name="how-to-run"></a>
+## How to run (WIP/TBD):
+1. Clone
+2. Run
