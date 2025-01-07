@@ -68,4 +68,5 @@ Create a simple tic-tac-toe game in Python that can be played in the terminal ag
 ## How to run:
 1. Clone the repository using `git clone` 
    - [Instructions on GitHub](https://github.com/git-guides/git-clone)
-2. Open a terminal session in the location that the repository was cloned and run `run_game.py` via Python (e.g. `python run_game.py`)
+2. Open a terminal session in the location that the repository was cloned and run `run_game.py` via Python 
+   - (e.g. `python run_game.py`)
